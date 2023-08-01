@@ -1,0 +1,41 @@
+body{
+    background-color: #D3D3D3;
+    font-family: Arial;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+h1{
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 300%;
+}
+
+h2{
+    padding: .4rem;
+    text-indent: 10px;
+    color:white;
+    background-color: #808080;
+}
+
+img{
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+p{
+    padding-bottom: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+p em{
+    color: red;
+}
+
+strong{
+    background-color: white;
+}
